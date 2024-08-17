@@ -1,1 +1,2 @@
 /(game|gaming|minecraft|multicraft|roblox/yandex)/$ctag=user_child
+/mess.eu.org/$ctag=user_child
