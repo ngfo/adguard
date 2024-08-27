@@ -1,2 +1,5 @@
 /(game|gaming|minecraft|multicraft|roblox/yandex)/$ctag=user_child
 /mess.eu.org/$ctag=user_child
+/scratch.mit.edu/$ctag=user_child
+/deev.is/$ctag=user_child
+/ggsmp.net/$ctag=user_child
