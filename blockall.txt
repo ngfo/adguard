@@ -1,2 +1,4 @@
 # block all
-/.*/$ctag=user_child
+||*^$client=mini20
+#
+# /.*/$ctag=user_child
