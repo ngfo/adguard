@@ -2,6 +2,9 @@
 @@||ngfort2^$client=mini20
 @@||ntk.i234.me^$client=mini20
 #
+# raspberry pi
+@@||raspberrypi.com^$client=rp4-mia-w
+#
 # nintendo switch
 @@||nintendo.net^$client=switch
 @@||nintendo.com^$client=switch
