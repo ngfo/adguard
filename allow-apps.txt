@@ -1,1 +1,3 @@
-#
+# allow backup
+@@||ngfort2^$client=mini20
+@@||ntk.i234.me^$client=mini20
