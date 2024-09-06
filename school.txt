@@ -4,7 +4,7 @@
 @@||forms.gle^$client=mini20
 @@||gstatic.com^$client=mini20
 @@||google.com^$client=mini20
-@@||moe.edu.sg^$client=mini20
+
 @@||googleusercontent.com^$client=mini20
 @@||google-analytics.com^$client=mini20
 @@||googleapis.com^$client=mini20
@@ -13,9 +13,13 @@
 @@||icloud.com^$client=mini20
 @@||apple-dns.net^$client=mini20
 @@||apple.com^$client=mini20
+#
+# MOE
+@@||moe.edu.sg^$ctag=user_child
+#
 # zoom
-@@||zoom.com^$client=mini20
-@@||zoom.us^$client=mini20
+@@||zoom.com^$ctag=user_child
+@@||zoom.us^$ctag=user_child
 #
 #
 # apple
