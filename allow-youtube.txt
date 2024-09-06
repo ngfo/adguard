@@ -1,2 +1,1 @@
-@@||youtu.be^$ctag=user_child
-@@||youtube.com^$ctag=user_child
+@@/youtu\.?be/$ctag=user_child
