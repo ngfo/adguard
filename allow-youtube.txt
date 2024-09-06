@@ -1,7 +1,2 @@
-||code.org^$important,ctag=user_child
-||onworks.net^$important,ctag=user_child
-||chrome.google.com^$important,ctag=user_child
-||play.google.com^$important,ctag=user_child
-||santatracker.google.com^$important,ctag=user_child
-@@||geniebook.com^$client=mini20
-@@||lencr.org^$client=mini20
+@@||youtu.be^$ctag=user_child
+@@||youtube.com^$ctag=user_child
