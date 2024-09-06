@@ -3,4 +3,5 @@
 @@||ntk.i234.me^$client=mini20
 #
 # nintendo switch
-@@||ctest.cdn.nintendo.net^$client=switch
+@@||nintendo.net^$client=switch
+@@||nintendo.com^$client=switch
