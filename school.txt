@@ -23,6 +23,10 @@
 @@||zoom.com^$ctag=user_child
 @@||zoom.us^$ctag=user_child
 #
+# eZhiShi
+@@||www.ezhishi.com^$client=rp4-mia-w
+@@||www.echineseworld.com^$client=rp4-mia-w
+#
 # apple
 # @@||akamaiedge.net^$ctag=user_child
 # @@||akamai.net^$ctag=user_child
