@@ -1,3 +1,8 @@
+# app store
+||apps.apple.com^$important.client=mini20
+# google play
+||play.google.com^$important,client=mini20
+#
 # block .club
 /\.club$/$ctag=user_child
 # block .io (lots of games)
