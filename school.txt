@@ -15,7 +15,7 @@
 @@||apple.com^$client=mini20
 # zoom
 @@||zoom.com^$client=mini20
-@@||zoom.us^$lient=mini20
+@@||zoom.us^$client=mini20
 #
 #
 # apple
