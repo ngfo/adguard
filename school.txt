@@ -13,6 +13,9 @@
 @@||apple-dns.net^$client=mini20
 @@||apple.com^$client=mini20
 #
+# Kahoot
+@@||kahoot.it^$ctag=user_child
+#
 # MOE
 @@||moe.edu.sg^$ctag=user_child
 #
