@@ -9,3 +9,10 @@
 /scratch.mit.edu/$ctag=user_child
 /deev.is/$ctag=user_child
 /ggsmp.net/$ctag=user_child
+#
+# block .club
+/\.club$/$ctag=user_child
+# block .io (lots of games)
+/\.io$/$ctag=user_child
+# block windows
+/(win7|win10|win11|windows)/$ctag=user_child
