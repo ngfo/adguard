@@ -1,5 +1,6 @@
 # Geniebook
 @@||geniebook.com^$client=mini20
+@@||use.typekit.net^$client=mini20
 @@||lencr.org^$client=mini20
 @@||forms.gle^$client=mini20
 @@||gstatic.com^$client=mini20
